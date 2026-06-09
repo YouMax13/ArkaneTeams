@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="AkT">
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_RED">
+            <English>Join Red</English>
+            <Spanish>Unirse al equipo Rojo</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_GREEN">
+            <English>Join Green</English>
+            <Spanish>Unirse al equipo Verde</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_BLUE">
+            <English>Join Blue</English>
+            <Spanish>Unirse al equipo Azul</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_YELLOW">
+            <English>Join Yellow</English>
+            <Spanish>Unirse al equipo Amarillo</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_MAIN">
+            <English>Join White</English>
+            <Spanish>Unirse al equipo Blanco</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_PURPLE">
+            <English>Join Purple</English>
+            <Spanish>Unirse al equipo Violeta</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_CYAN">
+            <English>Join Cyan</English>
+            <Spanish>Unirse al equipo Cian</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_PINK">
+            <English>Join Pink</English>
+            <Spanish>Unirse al equipo Rosa</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_ORANGE">
+            <English>Join Orange</English>
+            <Spanish>Unirse al equipo Naranja</Spanish>
+        </Key>
+    <Package name="akt">
+        <Key ID="STR_AKT_JOIN_BLACK">
+            <English>Join Black</English>
+            <Spanish>Unirse al equipo Negro</Spanish>
+        </Key>
+    </Package>
+</Project>
